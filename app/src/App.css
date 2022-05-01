@@ -1,6 +1,9 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  /* background-color: rgb(170, 15, 217); */
+  background: -webkit-linear-gradient(left, #1e1d1c, #ff52ff);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
   overflow: scroll;
   text-align: center;
   overflow: hidden;
